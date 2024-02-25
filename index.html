@@ -1,0 +1,46 @@
+<!-- <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    
+</body>
+</html> -->
+
+
+<!-- index.html in the Electron app
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Electron App</title>
+</head>
+<body>
+  <h1 id="hellomsg"></h1>
+
+  <script>
+    const { ipcRenderer } = require('electron');
+
+    ipcRenderer.on('message-from-extension', (event, data) => {
+      document.getElementById('hellomsg').innerHTML = data;
+      console.log('Message from Chrome Extension:', data);
+    });
+  </script>
+</body>
+</html> -->
+
+
+<!DOCTYPE html>
+<html>
+<body>
+  <h1 id="message"></h1>
+<!-- 
+  <script>
+    window.electron.receiveMessage((message) => {
+      document.getElementById('message').textContent = message;
+    });
+  </script> -->
+</body>
+</html>

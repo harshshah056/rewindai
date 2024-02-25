@@ -1,0 +1,74 @@
+[
+  {
+    "title": "takescreenshot.js - rewind_pouchdb - Visual Studio Code",
+    "path": "C:\\Users\\shahh\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe",
+    "name": "Visual Studio Code",
+    "imgname": "thumbnail_1708875724870.png",
+    "_id": "1708875724870",
+    "time": "2024-02-25T15:42:04.872Z",
+    "ocr": ">) File Edit Selection View Go Run --- «> 0 rewind_pouchdb Domo - a Xx | [18] EXPLORER co | Js getexeicon.js Is bulkstorelnPouchdb.js Js ocrjs Js processData.js Js storedatainDatalson. js Js takescreenshotjs X [> [0 > OPEN EDITORS functions > Js takescreenshotjs > © takeScreenshot > @ <function> > [el filename jo) \\/ REWIND_POUCHDB 4 async function takeScreenshot() { TE PETS 5 return new Promise(async (resolve, reject) => { 5 = go 35 activewindowdatajs 5 ) ; 15 bulkstorelnPouchdbjs 16 // ETE a unique filename i N hiv const timestamp = new Date().getTime(); - BE > Js compress.js 18 var filename = “thumbnail _${timestamp}.png”; & Js deleteTempfilejs 19 if (Ifilename || filename.trim() === '') { o Js flexsearchjs 20 console.error('Error: Filename is empty or not defined'); B5 Js getDocWithAttachmen... ~~ 21 } Js getexeicon,js 2 . ® 15 ocrjs > \" Get oe temporary PE path const tempDir = os.tmpdir(); Js processDatajs -- i: i: ’ Lo SmeEhEmEEEID | oh // Create the full file path Js takescreenshotjs 27 const filePath = './temp/' + filename; > icon 28 > icondb pL] // Check if the temp directory exists, and create it if it doesn't — 30 if (!fs.existsSync(\"./temp\")) { 5 mydb 31 await fs.mkdirSync(\"./temp\"); i gk Ye 32 // Save the thumbnail data to the temporary file > node modules 33 await fs.writeFileSync(filePath, thumbnail); > pouch_all_dbs__ 34 » CEES PROBLEMS ~~ OUTPUT ~~ TERMINAL PORTS DEBUG CONSOLE eA X > temp — {} config: [=] node EILEEN name: ‘Visual Studio Code® SN ©) = engtraineddata 3 — © indexhtml bounds: { x: -9, y: -9, width: 1938, height: 1038 }, [=] powershell memoryUsage: 105829632 $33 > OUTLINE } > TIMELINE 0 ENG - 2112 pp Q Search [5] ee od ’ AN ROD non & QR "
+  },
+  {
+    "title": "takescreenshot.js - rewind_pouchdb - Visual Studio Code",
+    "path": "C:\\Users\\shahh\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe",
+    "name": "Visual Studio Code",
+    "imgname": "thumbnail_1708875737896.png",
+    "_id": "1708875737896",
+    "time": "2024-02-25T15:42:17.898Z",
+    "ocr": ">) File Edit Selection View Go Run --- < 0 rewind_pouchdb Domo - a Xx | [18] EXPLORER co | Js getexeicon.js Is bulkstorelnPouchdb.js Js ocrjs Js processData.js Js storedatainDatalson. js Js takescreenshotjs X [> [0 > OPEN EDITORS functions > Js takescreenshotjs > © takeScreenshot > @ <function> > [el filename jo) ~ REWIND_POUCHDB 4 async function takeScreenshot() { Sen PETS 5 return new Promise(async (resolve, reject) => { = go 15 activewindowdatajs 49 // compress(filePath); a 50 Js bulkstorelnPouchdb.js . Sil - T > Js compress.js 50 Ess Js deleteTempfilejs 53 } . = Js flexsearchjs 54 B5 Js getDocWithAttachmen... ~~ 55 } Js getexeicon js 56 resolve (filename); ® i EE 57 } catch (error) { i i . 58 console.error('Error capturing and saving screenshot:', error); Js processData,js . . 59 reject (error); Js storedatainDatalson.js 60 } Js takescreenshotjs 61 }) - > icon 62 } > icondb & > mata oe 65 module.exports = takeScreenshot; > mydb > node_modules > pouch_all_dbs__ » SEES PROBLEMS ~~ OUTPUT TERMINAL PORTS DEBUG CONSOLE AX > temp — (1) wri ods (EI EE name: ‘Visual Studio Code’ SN ® {} datajson 1, — £ engtraineddata bounds: { x: -9, y: -9, width: 1938, height: 1038 }, [=] powershell memoryUsage: 104624128 $33 > OUTLINE } > TIMELINE 0 ENG ~ uo) ti) 2112 pp Q Search [5] ee od ’ AN ROD non & QR "
+  },
+  {
+    "title": "takescreenshot.js - rewind_pouchdb - Visual Studio Code",
+    "path": "C:\\Users\\shahh\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe",
+    "name": "Visual Studio Code",
+    "imgname": "thumbnail_1708875747223.png",
+    "_id": "1708875747223",
+    "time": "2024-02-25T15:42:27.225Z",
+    "ocr": ">) File Edit Selection View Go Run --- «> 0 rewind_pouchdb Domo - a Xx | [18] EXPLORER co | Js getexeicon.js Is bulkstorelnPouchdb.js Js ocrjs Js processData.js Js storedatainDatalson. js Js takescreenshotjs X [> [0 > OPEN EDITORS functions > Js takescreenshotjs > © takeScreenshot > @ <function> > [el filename jo) \\/ REWIND_POUCHDB 4 async function takeScreenshot() { TE Prater Ss return new Promise(async (resolve, reject) => { : = pd Js activewindowdata js 23 // Get the temporary directory path Js bulkstorelnPouchdb.js 24 // const tempDir = os.tmpdir(); = > JS compress.js 25 a 15 deleteTempfilejs 26 17 (rei the full file path ; © 27 const filePath = './temp/' + filename; = = Js flexsearchjs 5 & Js getDocWithAttachmen... 29 // Check if the temp directory exists, and create it if it doesn't Js getexeiconjs 30 if (Ifs.existsSync(\"./temp”)) { ® Js ocrjs 31 await fs.mkdirSync(\"./temp™); Js processDatajs 32 // Save the thumbnail data to the temporary file JS storedatainDatalson js 33 await fs.writeFileSync(filePath, thumbnail); 15 takescreenshotjs i . ) . . o = 35 console.log( Thumbnail saved: ${filePath} ); kgicen 36 // extractedData.imgname = filename; > icondb 37 // extractedData.time = new Date().toISOString(); > mata 38 // ocr(filePath); > mydb 39 // compress(filePath); > node_modules 40 > pouch_alldbs._ p a — » CEES PROBLEMS ~~ OUTPUT ~~ TERMINAL PORTS DEBUG CONSOLE eA X > temp — {} config: [=] node EILEEN name: ‘Visual Studio Code® SN ©@ 0 datajson 1  p £ engtraineddata bounds: { x: -9, y: -9, width: 1938, height: 1038 }, [=] powershell memoryUsage: 105250816 $33 > OUTLINE } > TIMELINE 0 ENG - 2112 pp Q Search [5] ee od ’ AN ROD non & QR "
+  },
+  {
+    "title": "rewind",
+    "path": "D:\\Study\\Full Stack\\Project\\rewind_pouchdb\\rewind_pouchdb\\node_modules\\electron\\dist\\electron.exe",
+    "name": "Electron",
+    "imgname": "thumbnail_1708875774486.png",
+    "_id": "1708875774486",
+    "time": "2024-02-25T15:42:54.488Z",
+    "ocr": ">) File Edit Selection View Go Run --- «> 0 rewind_pouchdb Domo - a Xx | [18] EXPLORER co | Js getexeicon.js Is bulkstorelnPouchdb.js Js ocrjs Js processData.js Js storedatainDatalson. js Js takescreenshotjs X [> [0 > OPEN EDITORS functions > Js takescreenshotjs > @ takeScreenshot > @ <function> 2 Clise is = iequiisy is J, - jo) REECE ECE 3 const { resolve } = require('path'); = vv functions 4 async function takeScreenshot() { ot [- pd Js activewindowdata js 5 return new Promise(async (resolve, reject) => { Js bulkstorelnPouchdb js 6 try { > JS compressjs 7 const sources = await desktopCapturer.getSources({ types: ['screen'], thumbnailSize: { width: 1920, height: a 15 deleteTempfilejs 8 const screen = sources.find((source) => source.name === ‘Entire screen’); . 9 var filename = \"\"; Js flexsearchjs a = 10 if (screen) { Js getDocWithAttachmen... 11 const thumbnail = screen.thumbnail.toPNG(); Js getexeiconjs 12 console.log( thumbnail”, thumbnail); ® Js ocrjs 13 Js processData js i Js storedatainDatalson.js i i . [Ey —— 16 // ETE a unique filename i = hiv const timestamp = new Date().getTime(); kgicen 18 filename = \"thumbnail _${timestamp}.png”; > icondb 19 if (filename || filename.trim() === '') { > mata 20 console.error('Error: Filename is empty or not defined'); > mydb 21 } > node_modules 2 > pouch_all_dbs_ i 7 Get the temporary directory path » CEES PROBLEMS ~~ OUTPUT ~~ TERMINAL PORTS DEBUG CONSOLE eA X > temp — | [=] node {} configjson name: ‘Electron’ hell ® {} datajson }s >] powershel = eng traineddata bounds: { x: 460, y: 135, width: 1660, height: 750 }, [=] powershell memoryUsage: 100679680 $33 > OUTLINE } > TIMELINE 1 ENG - 2112 Q Search [5] ee od ’ AN ROD non & QR "
+  },
+  {
+    "title": "takescreenshot.js - rewind_pouchdb - Visual Studio Code",
+    "path": "C:\\Users\\shahh\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe",
+    "name": "Visual Studio Code",
+    "imgname": "thumbnail_1708875796240.png",
+    "_id": "1708875796240",
+    "time": "2024-02-25T15:43:16.242Z",
+    "ocr": ">) File Edit Selection View Go Run --- < 0 rewind_pouchdb Domo - a Xx | [18] EXPLORER co | Js getexeicon.js Is bulkstorelnPouchdb.js Js ocrjs Js processData.js Js storedatainDatalson. js Js takescreenshotjs X [> [0 > OPEN EDITORS functions > Js takescreenshotjs > ( takeScreenshot > @ <function> Cis is — equals, io - — jo) REECE ECE 3 const { resolve } = require('path'); = vv functions . . . PROBLEMS OUTPUT TERMINAL PORTS DEBUG CONSOLE eo AX go Js activewindowdata js -— Js bulkstorelnPouchdb.js new main function stated [J node JS compressjs System has been idle for 5 seconds [=] powershell 2 . new main function stated verehall Js deleteTempfile js System has been idle for 10 seconds =p a Js flexsearchjs new main function stated { Is B5 getDocWithAttachmen... iRoE EET, Js getexeicon,js id: 131972, ® Js ocrjs title: 'takescreenshot.js - rewind_pouchdb - Visual Studio Code’, = Data owner: { process! Js processId: 13420, Js storedatainDatalson.js path: 'C:\\\\Users\\\\shahh\\\\AppData\\\\Local\\\\Programs\\\\Microsoft VS Code\\\\Code.exe', 35 takescreenshotjs ; name: ‘Visual Studio Code’ . > > icon bounds: { x: -9, y: -9, width: 1938, height: 1038 }, > icondb memoryUsage: 102326272 } ALi activewindowdata Promise resolved! > mydb { » med reals platform: ‘windows’, 5 © oleh id: 131972, pouch_alldbs__ title: 'takescreenshot.js - rewind_pouchdb - Visual Studio Code’, > screenshots owner: { > temp processId: 13420, . path: 'C:\\\\Users\\\\shahh\\\\AppData\\\\Local\\\\Programs\\\\Microsoft VS Code\\\\Code.exe', {} configjson name: ‘Visual Studio Code® ® {} datajson 1, eats bounds: { x: -9, y: -9, width: 1938, height: 1038 }, memoryUsage: 102326272 $33 > OUTLINE } > TIMELINE 1 ENG Nb 2113 pp Q Search [5] ee od ’ AN ROD phn & GR "
+  },
+  {
+    "title": "takescreenshot.js - rewind_pouchdb - Visual Studio Code",
+    "path": "C:\\Users\\shahh\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe",
+    "name": "Visual Studio Code",
+    "imgname": "thumbnail_1708875875117.png",
+    "_id": "1708875875117",
+    "time": "2024-02-25T15:44:35.120Z",
+    "ocr": ") File Edit Selection View Go Run & A rewind _pouchdb DQmMo - oo x | 1h} EXPLORER co | Js getexeicon.js 3s bulkstorelnPouchdb.js Js ocrjs Js processDatajs Js storedatainDatalson.js Js takescreenshotjs X [> [0 -- > OPEN EDITORS functions > Js takescreenshotjs > @ takeScreenshot > @ <function> \\ REWIND_POUCHDB B® revin = o y vv functions EEE EE PROBE ax 3s bulkstorelnPouchdb.js node Js compress.js po. M0 @ 35 deleteTempfile js powershell Js flexsearchjs Js getDocWithAttachmen... PS D:\\St Js getexeicon.js Js ocrjs Js processData,js 5 Ee Js storedatainDatalson.js Js takescreenshot,js > icon > icondb > mata > mydb > node_modules > pouch_all_dbs__ > screenshots > temp {} config json {} datajson = eng.traineddata > OUTLINE > TIMELINE X ®0A0 @o Ln9,Col9 Spaces:4 UTF-8 CRLF {} JavaScript @ Golive < Prettier 0 < mm Q Search W/L 8 © © + X « @ ~ i © cn & 0 "
+  },
+  {
+    "title": "takescreenshot.js - rewind_pouchdb - Visual Studio Code",
+    "path": "C:\\Users\\shahh\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe",
+    "name": "Visual Studio Code",
+    "imgname": "thumbnail_1708875882763.png",
+    "_id": "1708875882763",
+    "time": "2024-02-25T15:44:42.774Z",
+    "ocr": ">) File Edit Selection View Go Run --- < 0 rewind_pouchdb Domo - a Xx | [18] EXPLORER co | Js getexeicon.js Is bulkstorelnPouchdb.js Js ocrjs Js processData.js Js storedatainDatalson. js Js takescreenshotjs X [> [0 > OPEN EDITORS functions > Js takescreenshotjs > ( takeScreenshot > @ <function> jo) REECE ECE 3 const { resolve } require(*path'); = Vv functions . . . PROBLEMS OUTPUT TERMINAL PORTS DEBUG CONSOLE eo AX go Js activewindowdata js -— Js bulkstorelnPouchdb js At line:1 char:l [=] node > Js compressjs i pouchds-server powershell & Js deleteTempfilejs + CategoryInfo : ObjectNotFound: (pouchdb-server:String) [], CommandNotFoundException poneishel = Js flexsearchjs + FullyQualifiedErrorId : CommandNotFoundException 8 » getDocWithAttachmen... PS D:\\Study\\Full Stack\\Project\\rewind_pouchdb\\rewind_pouchdb> JS getexeiconjs ©) ss ocrjs N PS D:\\Study\\Full Stack\\Project\\rewind_pouchdb\\rewind_pouchdb> 1 Js processData,js Js storedatainDatalson.js Js takescreenshot,js > icon > icondb > mata > mydb > node_modules > pouch_all_dbs__ > screenshots > temp {} configjson ©@ 0 datajson £ eng traineddata $33 > OUTLINE > TIMELINE "
+  },
+  {
+    "title": "takescreenshot.js - rewind_pouchdb - Visual Studio Code",
+    "path": "C:\\Users\\shahh\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe",
+    "name": "Visual Studio Code",
+    "imgname": "thumbnail_1708875890303.png",
+    "_id": "1708875890303",
+    "time": "2024-02-25T15:44:50.305Z",
+    "ocr": ">) File Edit Selection View Go Run --- «> 0 rewind_pouchdb Domo - a Xx | [18] EXPLORER EU Js getexeicon.js Is bulkstorelnPouchdb.js Js ocrjs Js processData.js Js storedatainDatalson. js Js takescreenshotjs X [> [0 > OPEN EDITORS functions > Js takescreenshotjs > ( takeScreenshot > @ <function> © Sunes is —isquaiey oy, Ee — je) vRewinD Pp... [3 B32 O @ 3 const { resolve } = require('path'); = 7 \\ functions . . . PROBLEMS OUTPUT TERMINAL PORTS DEBUG CONSOLE eo AX go Js activewindowdata js -— Js bulkstorelnPouchdb js At line:1 char:l [=] node [| ces fas ea poveste & Js deleteTempfilejs + CategoryInfo : ObjectNotFound: (pouchdb-server:String) [], CommandNotFoundException poneishel = Js flexsearchjs + FullyQualifiedErrorId : CommandNotFoundException 85 = getDocWithAttachmen.., PS D:\\Study\\Full Stack\\Project\\rewind_pouchdb\\rewind_pouchdb> Js getexeiconjs History restored ® Js ocrjs Js processData,js Js storedatainDatalson.js Js takescreenshot,js > icon > icondb > mata > mydb PS D:\\Study\\Full Stack\\Project\\rewind_pouchdb\\rewind_pouchdb> 1 > node_modules > pouch_all_dbs__ > screenshots > temp {} configjson @ 0 datajson £ eng traineddata $33 > OUTLINE > TIMELINE "
+  }
+]
